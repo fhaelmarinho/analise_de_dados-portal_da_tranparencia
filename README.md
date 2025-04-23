@@ -35,3 +35,6 @@ Limpeza de dados (tratamento de missings, duplicatas)
 Filtros por período/órgão
 
 Agregações (somas, médias, contagens)
+
+## 📄 Licença
+Este projeto é aberto sob licença MIT. Os dados são públicos, mas verifique as restrições de uso do Portal da Transparência.
